@@ -33,5 +33,14 @@ Data Science/Analytics can be performed with multiple languages like R/Matlab/Py
 
 *A basic understanding of datatypes, logical expressions, loops, lists and functions is enough to begin with*
 
+## Week 2
 
+And Finally, we'll start with a basic introduction of Machine Learning
+ 
+Machine Learning is the field of study that gives computers the capability to learn without being explicitly programmed. ML is one of the most exciting technologies that one would have ever come across. As it is evident from the name, it gives the computer that makes it more similar to humans: The ability to learn. Machine learning is actively being used today, perhaps in many more places than one would expect.
+From translation apps to autonomous vehicles, all powers with Machine Learning. It offers a way to solve problems and answer complex questions. It is basically a process of training a piece of software called an algorithm or model, to make useful predictions from data
 
+#### Types of machine learning problems
+
+###### Supervised learning:
+The model or algorithm is presented with example inputs and their desired outputs and then finding patterns and connections between the input and the output. The goal is to learn a general rule that maps inputs to outputs. The training process continues until the model achieves the desired level of accuracy on the training data. 
